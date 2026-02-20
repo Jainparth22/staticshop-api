@@ -29,11 +29,11 @@
 "aggregations": {
   "books": {
     "count": 4,
-    "inventoryValue": 219153.15000000002
+    "inventoryValue": 200583.20
   },
   "clothing": {
     "count": 8,
-    "inventoryValue": 222152.35
+    "inventoryValue": 192270.63
   },
   "electronics": {
     "count": 3,
