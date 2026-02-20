@@ -26,10 +26,26 @@
     { "id": "prod-0bfde3bc-020", "name": "Standard Item 20", "category": "home", "price": 232.86, "stock": 162, "rating": 2.9 },
     { "id": "prod-0bfde3bc-021", "name": "Basic Item 21", "category": "electronics", "price": 95.12, "stock": 15, "rating": 3.9 }
   ],
-  "aggregations": {
-    "books": {
-      "count": 4,
-      "inventoryValue": 200583.20
-    }
+"aggregations": {
+  "books": {
+    "count": 4,
+    "inventoryValue": 200583.20
+  },
+  "clothing": {
+    "count": 8,
+    "inventoryValue": 222152.35
+  },
+  "electronics": {
+    "count": 3,
+    "inventoryValue": 104077.51
+  },
+  "sports": {
+    "count": 3,
+    "inventoryValue": 89029.64
+  },
+  "home": {
+    "count": 3,
+    "inventoryValue": 115212.75
   }
+}
 }
